@@ -1,4 +1,4 @@
-package com.rd.collection.set;
+package com.rd.collection;
 
 import java.util.ArrayList;
 import java.util.Collections;
